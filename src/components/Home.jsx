@@ -67,7 +67,7 @@ function Home() {
 					<h5>
 						<a href="#">Hiring in a hurry?</a>
 					</h5>
-					<p>- Find talented pros in record time with LinkedIn and keep business moving.</p>
+					<p>- Find talented pros in record time with Jobless and keep business moving.</p>
 				</Section>
 				<Layout>
 					<Left />
